@@ -1,6 +1,5 @@
-/* jshint node: true */
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-fill-murray'
+  name: 'ember-cli-fill-murray-andyroo2000'
 };
